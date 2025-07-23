@@ -1,5 +1,5 @@
 * {
-    background-color: beige;
+    background-color: #3d357e;
 }
 
 
@@ -16,6 +16,7 @@ header {
     text-align: center;
     margin-top: 100px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
 }
 
 .link {
@@ -25,7 +26,7 @@ header {
 
 button {
   padding: 10px 20px;
-  background-color:aquamarine;
+  background-color: #edae0f;
   border: none;
   border-radius: 5px;
   font-size: 16px;
